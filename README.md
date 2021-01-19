@@ -21,4 +21,5 @@
 - I was not interested in the deaths related to HIV so i didn't use the **Estimated rate of annual AIDS related deaths  per 100 000 population** and **Estimated number of annual AIDS related deaths** columns.
 
 # Result
-[![2.png](https://i.postimg.cc/ZnBNBC6h/2.png)](https://postimg.cc/RJmh2CPP)
+[![2.png](https://i.postimg.cc/ZnBNBC6h/2.png)](https://postimg.cc/RJmh2CPP)  
+[_Result_](https://nbviewer.jupyter.org/github/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/blob/main/Gender%20Inequality%20and%20HIV%20in%20SubSaharan%20Africa.ipynb)
