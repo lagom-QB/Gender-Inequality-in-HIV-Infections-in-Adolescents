@@ -27,4 +27,4 @@
 # Result
 [_Result_](https://nbviewer.jupyter.org/github/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/blob/main/Gender%20Inequality%20and%20HIV%20in%20SubSaharan%20Africa.ipynb)
 
-[![2.png](https://i.postimg.cc/ZnBNBC6h/2.png)](https://postimg.cc/RJmh2CPP)  
+[![Make-Over-Monday-WK2.png](https://i.postimg.cc/vZkvnmnV/Make-Over-Monday-WK2.png)](https://github.com/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/blob/main/README.md) 
