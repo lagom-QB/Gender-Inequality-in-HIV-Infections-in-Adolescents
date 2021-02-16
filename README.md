@@ -27,4 +27,4 @@
 # Result
 [Results notebook](https://nbviewer.jupyter.org/github/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/blob/main/Gender%20Inequality%20and%20HIV%20in%20SubSaharan%20Africa.ipynb)
 
-[![Country-Per-Year-New-Infections.png](https://i.postimg.cc/QMX2fmvq/Country-Per-Year-New-Infections.png)](https://github.com/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/blob/main/README.md)
+[![Country-Per-Year-New-Infections.png](https://i.postimg.cc/QMX2fmvq/Country-Per-Year-New-Infections.png)](https://nbviewer.jupyter.org/github/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/blob/main/Gender%20Inequality%20and%20HIV%20in%20SubSaharan%20Africa.ipynb)
