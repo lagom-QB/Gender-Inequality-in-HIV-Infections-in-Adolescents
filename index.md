@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Gender-Inequality-in-HIV-Infections-in-Adolescents (_MakeOverMonday WK2_) ☿️
+### ![Black on Transparent.png](https://view.dwcontent.com/file_view/makeovermonday/2021w2/Black%20on%20Transparent.png?auth=eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwcm9kLXVzZXItY2xpZW50OmxhZ29tLXFiIiwiaXNzIjoiYWdlbnQ6bGFnb20tcWI6OmVlMjhmOTZhLTZmMGYtNDNhNS05NTA4LTZiYzE4M2FhZDI4ZSIsImlhdCI6MTYxMTA1MDM1OCwicm9sZSI6WyJ1c2VyIiwidXNlcl9hcGlfYWRtaW4iLCJ1c2VyX2FwaV9lbnRlcnByaXNlX2FkbWluIiwidXNlcl9hcGlfcmVhZCIsInVzZXJfYXBpX3dyaXRlIl0sImdlbmVyYWwtcHVycG9zZSI6ZmFsc2UsInVybCI6ImViNGYwNmJkZjcyMTg2MDg1YzMyMmNlNmUxODQ4YjdhMjgxZWY5NGUifQ.WstV56e9rX8rqD-ARzHjZHj0bksq1y5oKmZxsq5Ju1aKIdXT9R-DkEzE8gnKswAFOTJCdouoC6vNERPD2nREPg)
 
-You can use the [editor on GitHub](https://github.com/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### DataSource [_MakeoverMonday_](https://data.world/makeovermonday/2021w2) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Data is taken from data.world and has these columns:
+### Table Columns : 
+> - Country
+> - UNICEF Region
+> - Year 
+> - Sex 
+> - Age
+> - Estimated incidence rate of new HIV infection per 1 000 uninfected population 
+> - Estimated number of annual AIDS related deaths
+> - Estimated number of annual new HIV infections
+> - Estimated number of people living with HIV
+> - Estimated rate of annual AIDS related deaths  per 100 000 population
 
-### Markdown
+# Question
+> -  What is the trend of the spread of the disease as the years go by? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 📝 
+- The **Age** Column is useless because the whole study focuses on adolescents aged 10-19
+- I didn't find the **UNICEF Region** column necessary unless i planned to use a map which i didn't think it would be interesting to use.
+- I was not interested in the deaths related to HIV so i didn't use the **Estimated rate of annual AIDS related deaths  per 100 000 population** and **Estimated number of annual AIDS related deaths** columns.
 
-```markdown
-Syntax highlighted code block
+# Resulting Notebook
+[Results notebook](https://nbviewer.jupyter.org/github/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/blob/main/Gender%20Inequality%20and%20HIV%20in%20SubSaharan%20Africa.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Country-Per-Year-New-Infections.png](https://i.postimg.cc/QMX2fmvq/Country-Per-Year-New-Infections.png)](https://nbviewer.jupyter.org/github/lagom-QB/Gender-Inequality-in-HIV-Infections-in-Adolescents/blob/main/Gender%20Inequality%20and%20HIV%20in%20SubSaharan%20Africa.ipynb)
